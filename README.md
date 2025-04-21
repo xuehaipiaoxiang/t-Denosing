@@ -11,7 +11,7 @@ t-Denosing
 │   │   ├── sweeps
 │   │   ├── v1.0-test
 |   |   ├── v1.0-trainval
-│   │   ├── nuscenes2d_temporal_infos_test.pkl  # generate trajectory of moving objects for denoising 
+│   │   ├── nuscenes2d_temporal_infos_test.pkl
 │   │   ├── nuscenes2d_temporal_infos_train.pkl # generate trajectory of moving objects for denoising 
 │   │   ├── nuscenes2d_temporal_infos_val.pkl # generate trajectory of moving objects for denoising
 │   │   ├── nuScenes-map-expansion-v1.2.zip  
